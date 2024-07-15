@@ -1,4 +1,4 @@
-package com.example.crud_spring_boot.controllers;
+package com.example.crud_spring_boot.web.controllers;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
